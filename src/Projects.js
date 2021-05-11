@@ -8,7 +8,6 @@ import Workday from "../src/assets/Workday.png";
 import Password from "../src/assets/Password.png";
 import Quizgame from "../src/assets/Quizgame.png";
 import './App.css';
-
 function Projects(props) {
     return (
         <Fragment>
