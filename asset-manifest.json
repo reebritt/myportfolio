@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.084327d4.chunk.css",
+    "main.js": "/myportfolio/static/js/main.0db998cc.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.0db998cc.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.0a7a4174.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.0a7a4174.js.map",
+    "static/js/2.5a1070d9.chunk.js": "/myportfolio/static/js/2.5a1070d9.chunk.js",
+    "static/js/2.5a1070d9.chunk.js.map": "/myportfolio/static/js/2.5a1070d9.chunk.js.map",
+    "static/js/3.84d26545.chunk.js": "/myportfolio/static/js/3.84d26545.chunk.js",
+    "static/js/3.84d26545.chunk.js.map": "/myportfolio/static/js/3.84d26545.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "static/css/main.084327d4.chunk.css.map": "/myportfolio/static/css/main.084327d4.chunk.css.map",
+    "static/js/2.5a1070d9.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.5a1070d9.chunk.js.LICENSE.txt",
+    "static/media/Activesis.9444a5eb.png": "/myportfolio/static/media/Activesis.9444a5eb.png",
+    "static/media/Budgegrub.2c1c6c97.png": "/myportfolio/static/media/Budgegrub.2c1c6c97.png",
+    "static/media/NoteTaker.7d09cbf7.png": "/myportfolio/static/media/NoteTaker.7d09cbf7.png",
+    "static/media/Password.56bd7468.png": "/myportfolio/static/media/Password.56bd7468.png",
+    "static/media/Quizgame.f6911b0d.png": "/myportfolio/static/media/Quizgame.f6911b0d.png",
+    "static/media/Sheree.bb207a8c.png": "/myportfolio/static/media/Sheree.bb207a8c.png",
+    "static/media/Workday.3ce94222.png": "/myportfolio/static/media/Workday.3ce94222.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a7a4174.js",
+    "static/js/2.5a1070d9.chunk.js",
+    "static/css/main.084327d4.chunk.css",
+    "static/js/main.0db998cc.chunk.js"
+  ]
+}
